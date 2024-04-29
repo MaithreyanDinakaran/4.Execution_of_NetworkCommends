@@ -67,7 +67,7 @@ CLIENT:
 SERVER:
 ![image](https://github.com/MaithreyanDinakaran/4.Execution_of_NetworkCommends/assets/119104032/9f732b9c-417b-42ca-b213-88bca45808ca)
 TRACEROUTE COMMAND:
-![Uploading image.png…]()
+![image](https://github.com/MaithreyanDinakaran/4.Execution_of_NetworkCommends/assets/119104032/5a329cff-f737-4f74-b840-b587001f3564)
 
 
 ## Result
